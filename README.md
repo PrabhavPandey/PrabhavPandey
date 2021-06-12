@@ -9,4 +9,4 @@
 - 🎸 I also enjoy playing the Guitar
 - 🥅 My goal is to take the entreuprenurial path and provide technology solutions to solve everyday problems for my country and its citizens 🇮🇳
 
-Have a Productive day ahead!
+**Have a Productive day ahead!**
