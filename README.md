@@ -7,13 +7,13 @@
 
 - ⚒️Previously worked on: [CoviCaller](https://www.covicaller.com/)
 
-- 🔊You can check out my music here: [https://linktr.ee/prabhavpandey](https://linktr.ee/prabhavpandey)
-
 - 📍Some other minor projects since I was in 8th Grade **_Scroll down to the projects section of my LinkedIn profile_ ;p**
 
-- 📫 How to reach me: **Drop me a message on LinkedIn or prabhavpandey0212@gmail.com**
-
 - ⚡ Fun fact: [I have struck two international record label deals and I also play the Guitar](I have struck two international record label deals and I also play the Guitar)
+
+- 🔊You can check out my music here: [https://linktr.ee/prabhavpandey](https://linktr.ee/prabhavpandey)
+
+- 📫 How to reach me: **Drop me a message on LinkedIn or prabhavpandey0212@gmail.com**
 
 - 📜Resume: **Come back here after 2 years xD**
 
