@@ -6,12 +6,11 @@
 
 - 🌱 I’m currently learning: **Web Development, C, Python and Google's Cloud Platform**
 
-- ⚒️Previously worked on: [CoviCaller](https://www.covicaller.com/)
+- ⚒️Previously worked on: [CoviCaller](https://www.covicaller.com/) - An Indian Venture to Tackle COVID Scams by an 18 Year Old
 
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/303156?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
-  
-  
-- 📍Some other minor projects since I was in 8th Grade:  **_Pleae scroll down to the projects section of my LinkedIn profile_ ;p**
+<a href="https://www.producthunt.com/posts/covicaller?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-covicaller" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=303156&theme=light" alt="CoviCaller - An Indian Venture to Tackle COVID Scams by an 18 Year Old | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+- 📍Some other minor projects since I was in 8th Grade: **_Pleae scroll down to the projects section of my LinkedIn profile_ ;p**
 
 - ⚡ Fun fact: **I have struck two international EDM record label deals and I also play the Guitar**
 
