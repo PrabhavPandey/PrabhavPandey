@@ -9,7 +9,7 @@
 
 - 📍Some other minor projects since I was in 8th Grade **_Scroll down to the projects section of my LinkedIn profile_ ;p**
 
-- ⚡ Fun fact: [I have struck two international record label deals and I also play the Guitar](I have struck two international record label deals and I also play the Guitar)
+- ⚡ Fun fact: **I have struck two international EDM record label deals and I also play the Guitar**
 
 - 🔊You can check out my music here: [https://linktr.ee/prabhavpandey](https://linktr.ee/prabhavpandey)
 
