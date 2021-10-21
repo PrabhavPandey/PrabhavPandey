@@ -8,11 +8,10 @@
 
 - ⚒️Previously worked on: [CoviCaller](https://www.covicaller.com/)
 
-<p align="center">
 <iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/303156?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</p>
-
-- 📍Some other minor projects since I was in 8th Grade: **_Pleae scroll down to the projects section of my LinkedIn profile_ ;p**
+  
+  
+- 📍Some other minor projects since I was in 8th Grade:  **_Pleae scroll down to the projects section of my LinkedIn profile_ ;p**
 
 - ⚡ Fun fact: **I have struck two international EDM record label deals and I also play the Guitar**
 
