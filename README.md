@@ -2,7 +2,7 @@
 
 <h3  align="center">18 Year Old Eager to Learn and Build Products</h3>
 
-- 🔭 I’m currently working on: **a college venture (Shhh! Its work in progress🛠️)**
+- 🔭 I’m currently working on: **a college project**
 
 - 🌱 I’m currently learning: **Web Development, C, Python and Google's Cloud Platform**
 
