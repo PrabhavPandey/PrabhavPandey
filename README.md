@@ -1,6 +1,6 @@
 <h1  align="center">Hi There👋, Welcome to my GitHub Profile</h1>
 
-<h3  align="center">18 Year Old Eager to Learn and Build Products</h3>
+<h3  align="center">Coding = Googling</h3>
 
 - 🔭 I’m currently working on: **a college project**
 
