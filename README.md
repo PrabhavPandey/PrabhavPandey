@@ -9,8 +9,11 @@
 
 
 <h3> 
+  <a target="blank">
   
-  [📜Resume](https://github.com/PrabhavPandey/PrabhavPandey/files/8987037/General.Resume.pdf)
+  [📜Resume](https://drive.google.com/file/d/1TUHNxGW2OBldsNRbTqBsNhD_I8cPfm_z/view?usp=sharing)
+  
+  </a>
   
 </h3>
 
