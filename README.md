@@ -11,7 +11,7 @@
 <h3> 
   <a target="blank">
   
-  [📜Resume](https://drive.google.com/file/d/15km3iqDL0hXuOiNUYplvjtIzXGeG8phz/view?usp=sharing)
+  [📜Resume]([https://drive.google.com/file/d/15km3iqDL0hXuOiNUYplvjtIzXGeG8phz/view?usp=sharing](https://drive.google.com/file/d/11mgyTo9cPzzPFS0TOvvCpw4f8A40FvLT/view?usp=sharing))
   
   </a>
   
