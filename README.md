@@ -11,14 +11,10 @@
 <h3> 
   <a target="blank">
   
-  [📜Resume](https://drive.google.com/file/d/11mgyTo9cPzzPFS0TOvvCpw4f8A40FvLT/view?usp=drive_link)
+  [📜Resume](https://drive.google.com/file/d/1Q5DBFO_cCxoa5zRmFicPM9vBtaDp_uPl/view?usp=sharing)
   
   </a>
   
 </h3>
-
-
-
-<p>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=prabhavpandey&show_icons=true&theme=tokyonight&locale=en"  alt="prabhavpandey" /></p>
 
 
